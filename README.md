@@ -175,13 +175,5 @@ The dashboard provides an interactive view of retail performance.
 
 ---
 
-## 🔗 Project Link
-
-Add your GitHub repo link here.
-
----
-
-## 📣 Author
-
-Aditya Sharma
-Aspiring Data Analyst / Data Engineer
+# Dashboard Preview
+![Dashboard](dash.png)
