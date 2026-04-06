@@ -144,7 +144,7 @@ The dashboard provides an interactive view of retail performance.
 
 ## 📸 Dashboard Preview
 
-![Dashboard](dashboard/dashboard_preview.png)
+![Dashboard](dash.png)
 
 ---
 
@@ -173,7 +173,3 @@ The dashboard provides an interactive view of retail performance.
 * Learned how to handle **real-world messy datasets**
 * Improved ability to **translate data into business insights**
 
----
-
-# Dashboard Preview
-![Dashboard](dash.png)
